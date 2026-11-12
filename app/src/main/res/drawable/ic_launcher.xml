@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ícone: Bit, o robô verde, sobre fundo escuro com um trecho de labirinto neon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#06050E" android:pathData="M18,8h72a10,10 0,0 1,10 10v72a10,10 0,0 1,-10 10h-72a10,10 0,0 1,-10 -10v-72a10,10 0,0 1,10 -10z" />
+    <path android:strokeColor="#5B6CFF" android:strokeWidth="5" android:strokeLineCap="round"
+        android:pathData="M20,24h24M64,24h24M20,84h68M20,24v20M88,24v20M20,64v20M88,64v20" />
+    <path android:fillColor="#FFE9C4" android:pathData="M28,54m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0M80,54m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path android:strokeColor="#5FC23A" android:strokeWidth="3" android:strokeLineCap="round" android:pathData="M54,38L58,28" />
+    <path android:fillColor="#FFEE55" android:pathData="M58,28m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="#9BFF5C" android:strokeColor="#3E9E2A" android:strokeWidth="2.5"
+        android:pathData="M54,56m-17,0a17,17 0,1 1,34 0a17,17 0,1 1,-34 0" />
+    <path android:fillColor="#0E2A1A" android:pathData="M48,49h17a5,5 0,0 1,5 5v0a5,5 0,0 1,-5 5h-17a5,5 0,0 1,-5 -5v0a5,5 0,0 1,5 -5z" />
+    <path android:fillColor="#7CFFF0" android:pathData="M52,54m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0M62,54m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+</vector>
